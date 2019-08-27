@@ -1,0 +1,2663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://ch-i.gix-fashion.cn/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#764">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#30"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#15"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#58"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#156"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#104"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#74"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#82"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#189"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#213"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#8"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#848">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#50"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#11"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#168"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#197"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#68"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#152"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#140"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#981">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#175"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#6"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#137"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#125"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#129"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#193"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#8"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#182"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#89"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#148"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#147"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#207"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#2396">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#112"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#512"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#838">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#97"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#2"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#180"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#193"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#61"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#129"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#82"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#80"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#0"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#197"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#89"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#254">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#137"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#80"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#82"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#170"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#125"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#193"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#129"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#8"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#11"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#143"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#89"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#15"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#175"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#147"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#207"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#156"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#6"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#30"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#75"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#26"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#148"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#182"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#213"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22562">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#0"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#969"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#838"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#288"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#953"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#954"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#15"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#15"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#0"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#956"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#969">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#171"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#89"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#213"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#180"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#77"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#137"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#104"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#181"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#82"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#156"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#75"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#933">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#68"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#31"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#79"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#156"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#87"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#69"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#9"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#83"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#29"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#134"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#214"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#170"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#288">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#77"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#137"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#104"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#181"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#82"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#156"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#75"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#171"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#89"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#213"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#180"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23427">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#93"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#1020"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#1049"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#171"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#171"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#742">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#191"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#71"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#221"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#79"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#206"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#89"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#170"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#109"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#44"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#148"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#110"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#19310">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#197"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#120"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#47"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#116"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#215"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#120"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#197"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#116"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#6"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#215"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#10425">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#709"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#1020"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#10"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#254"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#93"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#1085"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#15"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#15"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#981"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#838"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#953"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#956"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#15294">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#26"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#192"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#192"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#26"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#14"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#103"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#14"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#213"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#213"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#18925">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#148"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#213"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#213"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#148"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24304">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#4551">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#683"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#419">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#156"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#141"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#77"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#207"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#15"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#143"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#193"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#97"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#129"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#136"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#89">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#70"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#109"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#122"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#89"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#196"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#1049">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#82"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#109"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#15"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#171"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#185"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#196"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#84"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#105"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#192"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#97"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#79"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#89"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#116"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#104"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#18268">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#103"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#10"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#93"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#156"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#192"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#156"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#192"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#4233">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#27"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#29"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#29"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#27"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#89"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23054">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#44"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#44"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#79"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#70"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#70"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#110"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#110"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#79"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#702"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#742"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#5943">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#128"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#158"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#128"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#44"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#158"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#44"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24130">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#19"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#1031"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24055">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#185"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#1049"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#185"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#683">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#104"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#180"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#109"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#213"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#89"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#13454">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#84"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#84"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#45"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#582"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#45"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#225"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#933"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#1446">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#19952">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#45"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#124"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#63"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#206"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#112"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#63"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#124"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#512"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#206"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#45"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#795">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#6"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#16"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#73"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#89"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#168"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#109"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#154"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22321">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#181"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#189"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#89"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#15"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#181"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#89"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#87"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#87"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#189"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#15"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22847">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#122"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#80"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#122"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#135"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#80"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#220"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#135"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#220"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#15921">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#197"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#113"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#113"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#197"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#47"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#2898">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#87"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#953"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#956"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#10"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#87"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#954">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#75"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#82"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#181"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#137"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#104"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#156"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#77"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#180"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#213"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#89"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#171"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#804">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#57"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#171"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#12"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#213"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#180"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#156"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#104"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#52"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#70"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#82"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#192"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#31"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#79"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#21602">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#353"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#170"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#206"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#170"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#293"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#211"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#211"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#206"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#5478">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#26"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#192"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#26"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#192"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#14"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#14"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#213"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#213"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#1551">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#808"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#804"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#31"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#933"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#225"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#31"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#582"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24274">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#0"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#202"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#20"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#15"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#202"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#20"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#0"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#15"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#19049">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#163"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#10"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#93"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#163"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#13296">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#44"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#47"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#44"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#213"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#213"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#21609">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#120"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#136"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#136"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#172"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#155"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#120"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#155"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#172"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#467">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#109"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#104"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#11"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#215"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#116"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#106"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#179"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#123"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#9516">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#15"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#15"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#21310">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#156"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#103"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#10"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#93"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#192"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#192"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#156"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#512">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#206"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#11"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#124"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#80"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#5"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#121"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#28"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#69"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#156"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#45"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#98"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#31">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#24"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#0"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#0"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#24"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#21077">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#152"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#795"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#152"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#21032">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#116"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#47"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#116"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#472"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23886">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#14"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#214"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#214"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#14"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#113"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#192"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#192"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#113"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24367">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#110"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#113"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#113"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#110"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#202"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#353">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#154"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#173"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#135"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#156"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#104"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#152"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#206"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#77"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#125"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#170"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#80"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#207"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#211"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#24"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#19417">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#1020"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#683"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#143"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#472"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#946"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#709"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#838"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#808">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#52"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#213"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#180"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#79"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#12"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#57"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#104"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#192"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#171"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#82"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#31"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#156"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#70"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#21029">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#103"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#140"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#116"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#140"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#116"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#4968">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#45"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#45"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#63"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#63"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22001">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#68"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#215"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#68"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#215"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#116"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#116"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22416">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#15"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#20"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#202"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#709"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#15"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#20"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#0"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#202"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22700">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#93"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#214"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#214"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#171"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#225"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#171"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23537">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#124"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#194"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#124"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#71"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#194"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#71"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#16668">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#155"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#45"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#146"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#45"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#146"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#675"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#155"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#113"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#64"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#113"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#64"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24185">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#103"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#848"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#140"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#140"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#10577">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#0"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#60"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#0"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#212"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#212"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#60"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#6491">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#120"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#215"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#197"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#47"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#6"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#116"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#215"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#116"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#197"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#120"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#15482">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#24"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#702">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#221"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#191"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#71"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#109"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#110"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#148"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#170"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#44"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#206"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#89"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#79"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24258">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#106"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#44"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#21110">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#295">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#5234">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#27"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#29"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#29"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#27"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22320">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#171"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#104"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#171"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#196"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#103"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#52"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#196"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#104"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#52"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#956">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#15"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#82"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#137"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#0"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#60"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#104"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#80"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#13"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#2"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#89"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#110"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#180"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22046">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#110"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#702"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#742"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#110"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#70"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#93"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#70"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#746">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#45"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#419"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#50"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#168"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#50"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#197"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#197"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#168"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#647">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#52"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#158"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#171"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#80"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#21915">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#82"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#89"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#189"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#82"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#189"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#213"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#89"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#213"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23751">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#148"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#143"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#213"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#288"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#89"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#213"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#148"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#946"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#104"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#104"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#969"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#89"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#954"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22052">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#10"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#843"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#168"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#168"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#21072">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#419"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#141"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#141"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#47"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#13285">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#148"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#213"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#148"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#213"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#2">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#165"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#68"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#191"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#11"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#30"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#210"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#162"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#109"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#953">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#137"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#15"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#2"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#82"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#60"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#0"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#110"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#104"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#80"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#180"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#13"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#89"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#18705">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#177"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#197"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#47"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#197"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#177"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#2641">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#15"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#0"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#15"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#0"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#12289">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#80"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#211"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#194"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#80"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#211"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#194"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#18573">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#158"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#44"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#47"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#158"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#44"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22606">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#71"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#124"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#194"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#71"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#124"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#194"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22328">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#9"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#113"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#9"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#225"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#933"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#113"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#214"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#214"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#3619">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#45"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#45"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24474">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#31"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#31"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#93"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23368">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#80"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#80"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#158"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#158"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#16878">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#211"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#211"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#10"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#124"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#124"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24677">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#26"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#14"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#26"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#192"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#192"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#14"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#20658">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#170"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#472"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#170"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#47"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#20979">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#13040">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#13034">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#141"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#124"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#124"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#47"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#161"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#206"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#206"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#161"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#116"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#141"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#45"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#63"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#116"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#63"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#45"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#5893">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#80"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#80"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#1085">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#197"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#98"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#171"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#136"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#0"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#104"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#80"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#70"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#52"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#158"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24456">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#113"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#109"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#109"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#113"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#7798">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#31"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#81"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#80"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#104"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#80"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#104"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#206"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#112"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#207"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#512"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#207"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#206"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#211"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#211"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23543">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#20437">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#122"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#223">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#14"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#57"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#52"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#89"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#192"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#213"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#82"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#104"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#156"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#70"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#171"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#196"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#75"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#31"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#21532">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#109"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#109"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#709">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#15"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#24"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#60"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#171"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#197"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#80"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22885">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#58"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#148"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#148"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#15"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#58"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#15"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#189"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#189"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#19308">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#848"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#6"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#197"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#116"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#120"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#215"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#47"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#120"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#6"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#197"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#116"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#215"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#709"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#112">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#69"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#98"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#156"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#124"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#206"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#28"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#11"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#5"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#121"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#45"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#80"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#6489">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#141"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#47"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#141"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#116"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#116"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#161"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#161"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22951">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#213"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#213"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#21575">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#26"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#124"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#353"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#80"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#173"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#26"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#843"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#112"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#80"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#173"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#512"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#293"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#124"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#12651">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#0"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#0"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#197"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#24"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#47"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#113"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#197"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#24"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#113"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23483">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#192"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#192"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#14"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#103"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#14"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#213"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#213"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#14256">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#353"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#293"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23441">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#45"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#45"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#21705">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#13738">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#6"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#6"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#18"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#143"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#10"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#143"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24793">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#20820">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#254"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#767"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#419"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#704">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#179"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#123"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#11"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#116"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#109"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#215"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#104"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#106"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#225">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#109"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#79"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#156"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#191"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#57"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#214"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#68"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#31"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#31">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#80"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#180"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#143"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#73"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#30"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#213"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#18"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#6"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#156"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#20003">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#151"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#177"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#151"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#177"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#6043">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#15"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#10"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#189"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#89"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#181"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#15"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#189"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#181"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#89"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23878">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#135"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#135"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#843">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#28"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#80"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#156"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#188"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#143"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#5"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#206"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#11"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#124"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#45"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#10210">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#104"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#6054">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#10"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22043">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#219"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#219"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#21005">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#472">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#44"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#136"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#170"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#197"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#158"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#213"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#193"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#89"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#97"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#506">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#197"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#179"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#106"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#179"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#106"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#197"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#704"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#467"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24366">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#455"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#113"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#192"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#192"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#113"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#14"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#214"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#14"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#214"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23481">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#179"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#467"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#215"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#179"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#215"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#116"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#116"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#704"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#21695">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#808"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#804"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#6253">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#103"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#106"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#106"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#1290">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#146"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#45"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#113"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#155"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#64"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#45"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#113"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#64"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#146"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#155"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#17684">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#1020">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#52"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#11"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#222"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#191"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#171"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#6167">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#189"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#288"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#89"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#181"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#15"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#181"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#969"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#89"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#189"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#954"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#15"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#16393">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#67"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#67"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24710">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#10"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#168"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#168"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#737">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#170"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#109"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#79"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#9757">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#113"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24093">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#675"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#737"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#47"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#19">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#191"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#116"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#215"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#11"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#89"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#82"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#17335">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#143"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#10"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#143"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#30"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#30"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#10092">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#6"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#215"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#69"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#215"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#19"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#6"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#69"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#11052">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#21322">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#954"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#288"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#969"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22305">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#10"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#93"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23078">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#2"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#47"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#455">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#134"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#83"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#9"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#207"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#79"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#59"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#69"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#192"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#116"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#13774">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#742"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#702"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#20766">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#293">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#24"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#154"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#173"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#135"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#104"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#152"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#156"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#77"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#206"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#125"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#211"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#170"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#80"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#207"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#20424">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#20772">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#122"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22672">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#981"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#254"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#838"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23147">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#161"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#116"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#141"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#141"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#116"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#161"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#47"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#12718">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#197"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#113"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#47"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#197"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#113"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#14621">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#146"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#582"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#146"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#81"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#953"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#81"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#93"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#956"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#20014">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#63"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#3540">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#472"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24368">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#113"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#110"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#113"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#110"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#702"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#742"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#202"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23508">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#45"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#81"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#45"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#81"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#124"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#156"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#124"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#156"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#7117">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#843"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24410">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#45"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#84"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#84"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#45"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24153">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#210"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#79"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#68"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#68"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#210"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#79"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#35">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#173"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#151"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#156"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#15"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#213"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#177"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#57"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#154"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22495">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#89"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#21109">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#13808">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#13"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#186"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#211"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#93"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#94"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#20974">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#80"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#194"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#80"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#211"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#211"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#194"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24590">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#15"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#954"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#969"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#15"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#10"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#288"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#2833">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#795"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#165"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#10"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#165"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#4347">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#103"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#106"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#106"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24468">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#288"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#969"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#954"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22889">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#190"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#190"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#35"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#9587">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#95"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#89"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#18398">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#2911">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#124"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#512"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#5"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#112"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#5"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#124"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23217">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#47"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#44"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#213"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#44"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#213"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23434">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#9519">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#0"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#0"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#1085"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23914">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#171"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#6"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#171"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#104"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#6"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#946"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#143"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#104"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#808"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#804"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#5982">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#1085"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#12762">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#113"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23047">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#110"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#110"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#742"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#702"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#5415">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#158"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#89"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#128"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#128"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#158"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#44"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#44"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24544">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#211"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#211"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#80"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#80"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#20131">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#152"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#582"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#12"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#152"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#80"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#12"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#80"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#26"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#26"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#20910">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#202"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#202"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#194">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#24"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#152"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#12768">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#709"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#1296">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#116"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#47"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#116"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23823">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#156"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#156"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#180"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#180"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23534">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#202"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#202"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#15801">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#202"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#13039">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#192"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#215"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#215"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#192"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24277">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#0"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#0"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#219"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#219"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#582">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#81"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#84"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#45"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#31"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#171"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#192"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#26"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#12"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#104"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#83"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#1000">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#116"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#113"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#455"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#113"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#116"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#90"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#47"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#47"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24190">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#212"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#10"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#66"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#212"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#66"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#1414">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#1085"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#173"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#2692">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#10"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#966">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#93"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#163"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#163"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#130">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#15"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#89"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#82"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#6"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#20605">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#67"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#67"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#21624">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#168"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#168"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#9734">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#764"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23994">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#10"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#165"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#165"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#3613">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#1085"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#1049"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#808"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#804"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#683"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22363">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#419"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#89"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#15"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#58"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#15"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#647"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#89"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#58"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#21723">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#843"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22152">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#89"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#178"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#4265">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#45"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#63"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#63"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#45"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#946">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#171"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#148"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#104"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#109"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#180"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#2988">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#93"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#225"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#163"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#163"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#10"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#194"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#933"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#795"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#7480">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#18"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#6"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#6"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#18"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#143"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#10"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#143"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#9025">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#14068">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#135"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#135"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#512"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#124"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#124"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#112"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#767">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#129"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#193"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#11"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#213"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#89"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#207"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#80"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#30"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#75"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#182"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#143"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#15"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#156"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#82"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#170"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#26"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#125"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#6313">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#109"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#109"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#113"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#113"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#1451">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#26"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#26"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#2089">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#11942">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#795"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#675">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#146"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#45"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#51"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#20327">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#66"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#212"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#212"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#66"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#5814">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#0"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#21309">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24887">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#130"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#254"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#19"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#981"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#1031">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#109"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#156"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#82"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#189"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#11"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#222"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#213"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#180"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#89"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22535">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#767"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#254"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#981"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23868">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23030">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#16239">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#11"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#512"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#11"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#848"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#112"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#20881">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#135"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#135"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#17432">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#93"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#12142">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#149"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#149"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22982">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#192"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#14"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#192"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#26"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#26"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#14"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#2524">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24005">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#764"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#20786">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#213"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#143"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#143"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#213"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#2111">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#20023">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#35"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#12401">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#134"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#134"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#215"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#215"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#20625">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#207"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#93"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#207"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#93"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#10822">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#80"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#215"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#139"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#80"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#215"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24792">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#24"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24635">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#956"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#953"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#19015">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#419"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#20994">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#9099">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#89"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24323">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#35"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/symptom#143">
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#180"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#171"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#148"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#104"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#139"/>
+    <ns1:treatmentPlan rdf:resource="http://ch-i.gix-fashion.cn/effect#109"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#7009">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#10102">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#67"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#67"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#7252">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#838"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#21604">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#67"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#67"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#2699">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#10"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#148"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#89"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#89"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#795"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#180"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#180"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#148"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22174">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#888">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#202"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#202"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22950">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#113"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#6193">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#8399">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#47"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#14210">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#675"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#21947">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#933"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#288"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#10"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#954"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#969"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#8063">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#191"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#191"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#11"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#647"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#20835">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#194"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#9586">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#1049"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23556">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#26"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#26"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#21608">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#353"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#293"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#5219">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#1049"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#6375">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#838"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#18790">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#12653">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#0"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#24"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#24"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#0"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#223"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23787">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#13755">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#35"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#21974">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#795"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24380">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#193"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#21849">
+    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/effect#11"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#5586">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#63"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24888">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#838"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#20983">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#764"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#8397">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#47"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#3176">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#675"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#2100">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#1049"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#21701">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#455"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22796">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23312">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#4066">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#2537">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22856">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#10780">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#45"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23693">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#31"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#17360">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#9746">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#113"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#2892">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#933"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#4692">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#767"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#254"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24257">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#7604">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#113"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22543">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#15271">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#15152">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24449">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#81"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#9489">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#18270">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#582"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#16087">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#19925">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#9040">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#20300">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#13353">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#89"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#178"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#19067">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#1176">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#194"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#19265">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#838"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24319">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#419"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23522">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#130"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#20978">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#202"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#14332">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#9312">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#933"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#9273">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#173">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#709"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#9340">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22858">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#21039">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#14241">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#2530">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#202"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24718">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#19"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#24784">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#223"/>
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#22868">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#11694">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#173"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#5255">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#419"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23052">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#35"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/recipe#23851">
+    <ns1:applysOn rdf:resource="http://ch-i.gix-fashion.cn/symptom#218"/>
+  </rdf:Description>
+</rdf:RDF>
