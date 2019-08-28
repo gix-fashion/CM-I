@@ -2,12 +2,13 @@
 Several functions to handle strings.
 
 Composed by Zhand Danyang @THU
-Last Revision: Aug 22nd, 2019
+Last Revision: Aug 27th, 2019
 """
 
 import re
 import math
 import numpy as np
+import itertools
 
 import concurrent.futures as con
 
@@ -211,3 +212,29 @@ def is_identical_for_iterable(single_drug, drug_iter, dist_thrd=0.34):
     futures = (indicators.submit(is_identical, single_drug, ad, dist_thrd) for ad in drug_iter)
     results = (f.result() for f in futures)
     return any(results)
+
+def load_rdf_keywords_from_trivial_list(filename):
+    """
+    Load a keywords list with following formats:
+
+    ```
+    <id, int> <kw1> <kw2> ...
+    ...
+    ```
+    
+    filename - str
+
+    return:
+    items - list of (int id, set of keywords)
+    maps - dict, denoting mapping from keywords of str to id of int 
+    """
+
+    with open(filename) as f:
+        lines = (l.strip() for l in f)
+        items = (l.split() for l in lines)
+        items = ((int(l[0]), set(l[1:])) for l in items)
+        items = list(items)
+
+        maps = (((kw, kw_id) for kw in id_kws) for kw_id, id_kws in items)
+        maps = dict(itertools.chain.from_iterable(maps))
+    return items, maps
