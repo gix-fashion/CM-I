@@ -10443,10 +10443,6 @@
     <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/m_effect#散结解毒止痛"/>
     <ns1:majorIn rdf:resource="http://ch-i.gix-fashion.cn/major_function#主鼠瘘疮毒"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/medicine#庵 ">
-    <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/m_effect#行瘀通经,祛湿"/>
-    <ns1:majorIn rdf:resource="http://ch-i.gix-fashion.cn/major_function#主妇女血瘀经闭,跌打瘀肿,风湿痹痛"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/medicine#慈竹笋">
     <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/m_effect#"/>
     <ns1:majorIn rdf:resource="http://ch-i.gix-fashion.cn/major_function#主脱肛,疝气,疮疡"/>
@@ -15119,7 +15115,7 @@
     <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/m_effect#利水消肿"/>
     <ns1:majorIn rdf:resource="http://ch-i.gix-fashion.cn/major_function#主面目四肢浮肿,膨胀,小便不通"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/medicine#庵 子">
+  <rdf:Description rdf:about="http://ch-i.gix-fashion.cn/medicine#庵子">
     <ns1:hasEffect rdf:resource="http://ch-i.gix-fashion.cn/m_effect#活血散瘀,祛风除湿"/>
     <ns1:majorIn rdf:resource="http://ch-i.gix-fashion.cn/major_function#主妇女血瘀经闭,产后瘀滞腹痛,跌打损伤,风湿痹痛"/>
   </rdf:Description>
