@@ -4,7 +4,7 @@
 Constructs the subgraph on the "方剂" (recipe) side.
 
 Composed by Zhand Danyang @THU
-Last Revision: Aug 28th, 2019
+Last Revision: Sep 3rd, 2019
 """
 
 import sys
@@ -108,7 +108,7 @@ for i, entry in enumerate(common_chinese_drug_recipes):
         #continue
     #recipe_id = recipe_keyword_mappings[entry["方剂名"]]
     recipe_ids = (kw_id for kw_id, kws in recipe_keywords if any(kw in entry["方剂名"] for kw in kws))
-    for recipe_id, symptom_group in itertools.product(recipe_ids, effect_keywords):
+    for recipe_id, symptom_group in itertools.product(recipe_ids, symptom_keywords):
         if any(kw in entry["功用"] for kw in symptom_group[1]):
             graph.add((rdf_namespace.recipe[str(recipe_id)],
                 rdf_namespace.applys_on,
@@ -147,7 +147,7 @@ for i, entry in enumerate(chinese_drug_recipe_encyclopaedia):
         #continue
     #recipe_id = recipe_keyword_mappings[entry["方剂名"]]
     recipe_ids = (kw_id for kw_id, kws in recipe_keywords if any(kw in entry["方剂名"] for kw in kws))
-    for recipe_id, symptom_group in itertools.product(recipe_ids, effect_keywords):
+    for recipe_id, symptom_group in itertools.product(recipe_ids, symptom_keywords):
         if any(kw in entry["适应症"] for kw in symptom_group[1]):
             graph.add((rdf_namespace.recipe[str(recipe_id)],
                 rdf_namespace.applys_on,
