@@ -26,13 +26,13 @@ random.seed()
 def train(model, dataloader, node_stat,
         max_epoch=500, save_interval=100, save_dir="checkpoints",
         gpus=False, gamma=1., soft_constraints_weights=0.25, epsilon=1e-3,
-        print_process=False):
+        print_process=False, print_interval=100):
     """
     Trains a TransH model and returns the model.
 
     model - a tuple like (E, R), where
-        E is a dict with the node id as key and the node's embedding vector as value;
-        R is a dict with the relation id as key and the relation's embedding expression (w_r, d_r) as value;
+        E is array with shape (nb_node, embedding_dim)
+        R is array with shape (nb_node, 2, embedding_dim), denoting (w_r, d_r) for each relation type
         all the vectors are expected to be with type of numpy or torch tensor
     dataloader - an iterable, yielding batchs of triplets
     node_stat - dict like {r: d} where
@@ -59,17 +59,16 @@ def train(model, dataloader, node_stat,
 
     node_embedding = model[0]
     relation_embedding = model[1]
-    nodes = list(node_embedding.keys())
     epsilon **= 2
 
     if gpus:
         loss = torch.tensor(0., dtype=torch.double).cuda()
-        node_embedding = {k: torch.tensor(v, requires_grad=True).cuda() for k, v in node_embedding.items()}
-        relation_embedding = {k: (torch.tensor(v[0], requires_grad=True).cuda(), torch.tensor(v[1], requires_grad=True).cuda()) for k,v in relation_embedding.items()}
+        node_embedding = torch.as_tensor(node_embedding).requires_grad_().cuda()
+        relation_embedding = torch.as_tensor(relation_embedding).requires_grad_().cuda()
     else:
         loss = torch.tensor(0., dtype=torch.double).cpu()
-        node_embedding = {k: torch.tensor(v, requires_grad=True).cpu() for k, v in node_embedding.items()}
-        relation_embedding = {k: (torch.tensor(v[0], requires_grad=True).cpu(), torch.tensor(v[1], requires_grad=True).cpu()) for k, v in relation_embedding.items()}
+        node_embedding = torch.as_tensor(node_embedding).requires_grad_().cpu()
+        relation_embedding = torch.as_tensor(relation_embedding).requires_grad_().cpu()
 
     if not os.path.exists(save_dir):
         os.makedirs(save_dir, mode=0o755)
@@ -81,15 +80,16 @@ def train(model, dataloader, node_stat,
         #print(h_proj.shape)
         t_proj = t - torch.matmul(w, t)*w
         return torch.sum((h_proj - t_proj + d)**2)
-    optm = optim.Adam(itertools.chain(node_embedding.values(),
-        itertools.chain.from_iterable(relation_embedding.values())))
+    optm = optim.Adam([node_embedding, relation_embedding], lr=0.005)
 
     # training process
     is_first_epoch = True
     for epoch, batch in enumerate(dataloader):
+        #print("{:d}, {:}".format(epoch, type(batch)))
         if epoch>=max_epoch:
             break
 
+        batch_size = float(len(batch))
         optm.zero_grad()
         loss.fill_(0.)
         for head, relation, tail in batch:
@@ -99,14 +99,14 @@ def train(model, dataloader, node_stat,
 
             if replace_head:
                 while True:
-                    new_head = nodes[random.randrange(len(nodes))]
+                    new_head = random.randrange(len(node_embedding))
                     if new_head!=head:
                         break
             else:
                 new_head = head
             if replace_tail:
                 while True:
-                    new_tail = nodes[random.randrange(len(nodes))]
+                    new_tail = random.randrange(len(node_embedding))
                     if new_tail!=tail:
                         break
             else:
@@ -117,16 +117,24 @@ def train(model, dataloader, node_stat,
                             fr(node_embedding[new_head], node_embedding[new_tail],
                                 relation_embedding[relation][0], relation_embedding[relation][1])+
                             gamma).double()
+        #print(epoch)
 
-        loss += sum(functional.relu(torch.sum(n**2)-1.) for _, n in node_embedding.items())
-        loss += sum(functional.relu(torch.matmul(r[0], r[1])**2/torch.sum(r[1]**2) - epsilon)
-                for _, r in relation_embedding.items())
+        loss += torch.sum(functional.relu(torch.sum(node_embedding**2, axis=1)-1.))
+        othorgonality = torch.sum(relation_embedding[:, 0, :]*relation_embedding[:, 1, :], axis=1)**2/\
+                torch.sum(relation_embedding[:, 1, :]**2, axis=1)
+        loss += torch.sum(functional.relu(othorgonality-epsilon))
+        loss /= batch_size
 
-        if is_first_epoch:
-            loss.backward(retain_graph=True)
-        else:
-            loss.backward
+        #print(epoch)
+
+        #if is_first_epoch:
+            #loss.backward(retain_graph=True)
+        #else:
+            #loss.backward()
+        loss.backward(retain_graph=True)
+        #print(epoch)
         optm.step()
+        #print(epoch)
 
         if epoch%save_interval==0:
             final_checkpoint_name = os.path.join(save_dir, "checkpoint-epoch{:d}-loss{:.4f}.pkl".format(epoch, loss.tolist()))
@@ -136,8 +144,8 @@ def train(model, dataloader, node_stat,
                 "loss": loss.tolist()
             }, final_checkpoint_name)
 
-            if print_process:
-                print("Epoch {:d}: Loss - {:.4f}".format(epoch, loss.tolist()))
+        if print_process and epoch % print_interval==0:
+            print("Epoch {:d}: Loss - {:.4f}".format(epoch, loss.tolist()))
 
         is_first_epoch = False
 
@@ -159,32 +167,31 @@ def graph_stat(graph, batch_size=5, embedding_dim=50):
     batch_size - expected batch_size
     embedding_dim - the dimension of the embedding vectors
 
-    return - an initiated TransH model, a `tph` & `hpt` statistics, a dataloader
+    return - a URI-id mapping plan, an initiated TransH model, a `tph` & `hpt` statistics, a dataloader
+    URI-id mapping plan - a tuple of (nodes mapping, relations mapping)
     """
 
     nodes = set(itertools.chain.from_iterable((s, o) for s, _, o in graph))
+    nodes = dict((n, i) for i, n in enumerate(nodes))
     relations = set(p for _, p, _ in graph)
-    stat = {r: {n: [0, 0] for n in nodes} for r in relations}
+    relations = dict((r, i) for i, r in enumerate(relations))
+    #stat = {r: {n: [0, 0] for n in nodes} for r in relations}
+    stat = np.zeros((len(relations), len(nodes), 2))
 
     for s, p, o in graph:
-        stat[p][s][0] += 1
-        stat[p][o][1] += 1
+        stat[relations[p]][nodes[s]][0] += 1
+        stat[relations[p]][nodes[o]][1] += 1
 
-    def dataloader():
-        while True:
-            for triplet in graph:
-                yield triplet
-    def batch_dataloader(batch_size=5):
-        loader = dataloader()
+    def batch_dataloader(graph, batch_size=5):
+        graph = list((nodes[s], relations[p], nodes[o]) for s, p, o in graph)
         while True:
             batch = []
             for i in range(batch_size):
-                batch.append(next(loader))
+                batch.append(graph[random.randrange(len(graph))])
             yield batch
 
-    node_embedding = {n: np.squeeze(np.array(matlib.randn(embedding_dim))) for n in nodes}
-    for n in node_embedding:
-        node_embedding[n] /= np.sqrt(np.sum(node_embedding[n]**2))
-    relation_embedding = {r: (np.squeeze(np.array(matlib.randn(embedding_dim))), np.squeeze(np.array(matlib.randn(embedding_dim)))) for r in relations}
-
-    return (node_embedding, relation_embedding), stat, batch_dataloader(batch_size)
+    node_embedding = np.squeeze(np.asarray(matlib.randn(len(nodes), embedding_dim)))
+    node_embedding /= np.sqrt(np.sum(node_embedding**2, axis=1))[:, None]
+    relation_embedding = np.reshape(np.asarray(matlib.randn(len(relations), 2*embedding_dim)), (len(relations), 2, embedding_dim))
+    relation_embedding[:, 0, :] /= np.sqrt(np.sum(relation_embedding[:, 0, :]**2, axis=1))[:, None]
+    return (nodes, relations), (node_embedding, relation_embedding), stat, batch_dataloader(graph, batch_size)
