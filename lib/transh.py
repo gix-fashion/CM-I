@@ -6,7 +6,7 @@ A simple implementation of [TransH] method.
 [TransH]: Zhen Wang, Jianwen Zhang et al. *Knowledge Graph Embedding by Translating on Hyperplanes*. AAAI 2014
 
 Composed by Zhand Danyang @THU
-Last Revision: Sep 2nd
+Last Revision: Sep 6th
 """
 
 import os
@@ -23,13 +23,15 @@ import numpy.matlib as matlib
 
 random.seed()
 
-def train(model, dataloader, node_stat,
+def train(mappings, model, dataloader, node_stat,
         max_epoch=500, save_interval=100, save_dir="checkpoints",
         gpus=False, gamma=1., soft_constraints_weights=0.25, epsilon=1e-3,
         print_process=False, print_interval=100):
     """
     Trains a TransH model and returns the model.
 
+    mappings - a tuple of two mapping dict, map the name of nodes and relations to an int id;
+        useless in the training process, just for storing and restoring
     model - a tuple like (E, R), where
         E is array with shape (nb_node, embedding_dim)
         R is array with shape (nb_node, 2, embedding_dim), denoting (w_r, d_r) for each relation type
@@ -152,6 +154,7 @@ def train(model, dataloader, node_stat,
     final_checkpoint_name = os.path.join(save_dir, "checkpoint-epoch{:d}-loss{:.4f}.pkl".format(epoch, loss.tolist()))
     torch.save({
         "epoch": epoch,
+        "mappings": mappings,
         "model": (node_embedding, relation_embedding),
         "loss": loss.tolist()
     }, final_checkpoint_name)
