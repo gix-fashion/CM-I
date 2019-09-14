@@ -67,76 +67,53 @@ def train(mappings, model, dataloader, node_stat,
         loss = torch.tensor(0., dtype=torch.double).cuda()
         node_embedding = torch.as_tensor(node_embedding).requires_grad_().cuda()
         relation_embedding = torch.as_tensor(relation_embedding).requires_grad_().cuda()
+        node_stat = torch.as_tensor(node_stat).detach().cuda()
     else:
         loss = torch.tensor(0., dtype=torch.double).cpu()
         node_embedding = torch.as_tensor(node_embedding).requires_grad_().cpu()
         relation_embedding = torch.as_tensor(relation_embedding).requires_grad_().cpu()
+        node_stat = torch.as_tensor(node_stat).detach().cpu()
 
     if not os.path.exists(save_dir):
         os.makedirs(save_dir, mode=0o755)
 
-    def fr(h, t, w, d):
-        #print(h.shape)
-        w = w/torch.sqrt(torch.sum(w**2))
-        h_proj = h - torch.matmul(w, h)*w
-        #print(h_proj.shape)
-        t_proj = t - torch.matmul(w, t)*w
-        return torch.sum((h_proj - t_proj + d)**2)
-    optm = optim.Adam([node_embedding, relation_embedding], lr=0.005)
+    def fr(h, r, t):
+        w = r[:, 0, :]/torch.sqrt(torch.sum(r[:, 0, :]**2, axis=-1, keepdim=True))
+        h_proj = h-torch.sum(r[:, 0, :]*h, axis=-1, keepdim=True)*r[:, 0, :]
+        t_proj = t-torch.sum(r[:, 0, :]*t, axis=-1, keepdim=True)*r[:, 0, :]
+        return torch.sum((h_proj - t_proj + r[:, 1, :])**2, axis=-1)
+
+    optm = optim.Adam([node_embedding, relation_embedding], lr=0.01)
+    #optm = optim.RMSprop([node_embedding, relation_embedding], lr=0.01)
 
     # training process
     is_first_epoch = True
     for epoch, batch in enumerate(dataloader):
-        #print("{:d}, {:}".format(epoch, type(batch)))
         if epoch>=max_epoch:
             break
 
-        batch_size = float(len(batch))
         optm.zero_grad()
-        loss.fill_(0.)
-        for head, relation, tail in batch:
-            denominator = float(node_stat[relation][head][0]+node_stat[relation][tail][1])
-            replace_head = random.random()<node_stat[relation][head][0]/denominator
-            replace_tail = random.random()<node_stat[relation][tail][1]/denominator
+        #loss.fill_(0.)
 
-            if replace_head:
-                while True:
-                    new_head = random.randrange(len(node_embedding))
-                    if new_head!=head:
-                        break
-            else:
-                new_head = head
-            if replace_tail:
-                while True:
-                    new_tail = random.randrange(len(node_embedding))
-                    if new_tail!=tail:
-                        break
-            else:
-                new_tail = tail
+        batch_size = float(len(batch))
+        batch = torch.as_tensor(batch).detach()
+        batch = batch.cuda() if gpus else batch.cpu()
+        denominator = node_stat[batch[:, 1], batch[:, 0], 0]+node_stat[batch[:, 1], batch[:, 2], 1]
+        replace_head = torch.rand(len(batch)).double()*denominator<node_stat[batch[:, 1], batch[:, 0], 0]
+        replace_tail = torch.rand(len(batch)).double()*denominator<node_stat[batch[:, 1], batch[:, 2], 1]
+        new_head = torch.where(replace_head, torch.randint(len(node_embedding), (len(batch),)), batch[:, 0])
+        new_tail = torch.where(replace_tail, torch.randint(len(node_embedding), (len(batch),)), batch[:, 2])
+        loss = torch.mean(functional.relu(fr(node_embedding[batch[:, 0]], relation_embedding[batch[:, 1]], node_embedding[batch[:, 2]])-
+            fr(node_embedding[new_head], relation_embedding[batch[:, 1]], node_embedding[new_tail])+
+            gamma))
 
-            loss += functional.relu(fr(node_embedding[head], node_embedding[tail],
-                    relation_embedding[relation][0], relation_embedding[relation][1])-
-                            fr(node_embedding[new_head], node_embedding[new_tail],
-                                relation_embedding[relation][0], relation_embedding[relation][1])+
-                            gamma).double()
-        #print(epoch)
-
-        loss += torch.sum(functional.relu(torch.sum(node_embedding**2, axis=1)-1.))
+        loss += torch.sum(functional.relu(torch.sum(node_embedding**2, axis=1)-1.))/batch_size
         othorgonality = torch.sum(relation_embedding[:, 0, :]*relation_embedding[:, 1, :], axis=1)**2/\
                 torch.sum(relation_embedding[:, 1, :]**2, axis=1)
-        loss += torch.sum(functional.relu(othorgonality-epsilon))
-        loss /= batch_size
+        loss += torch.sum(functional.relu(othorgonality-epsilon))/batch_size
 
-        #print(epoch)
-
-        #if is_first_epoch:
-            #loss.backward(retain_graph=True)
-        #else:
-            #loss.backward()
         loss.backward(retain_graph=True)
-        #print(epoch)
         optm.step()
-        #print(epoch)
 
         if epoch%save_interval==0:
             final_checkpoint_name = os.path.join(save_dir, "checkpoint-epoch{:d}-loss{:.4f}.pkl".format(epoch, loss.tolist()))
