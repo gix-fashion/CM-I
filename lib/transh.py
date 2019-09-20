@@ -6,7 +6,7 @@ A simple implementation of [TransH] method.
 [TransH]: Zhen Wang, Jianwen Zhang et al. *Knowledge Graph Embedding by Translating on Hyperplanes*. AAAI 2014
 
 Composed by Zhand Danyang @THU
-Last Revision: Sep 6th
+Last Revision: Sep 20th
 """
 
 import os
@@ -119,6 +119,7 @@ def train(mappings, model, dataloader, node_stat,
             final_checkpoint_name = os.path.join(save_dir, "checkpoint-epoch{:d}-loss{:.4f}.pkl".format(epoch, loss.tolist()))
             torch.save({
                 "epoch": epoch,
+                "mappings": mappings,
                 "model": (node_embedding, relation_embedding),
                 "loss": loss.tolist()
             }, final_checkpoint_name)
